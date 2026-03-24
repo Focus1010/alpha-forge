@@ -2,6 +2,9 @@
 
 AlphaForge is an agent-driven crypto intelligence system that transforms on-chain data into real-time, actionable signals.
 
+<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/c03b2d8b-5b09-4cb1-9f98-13c35c427437" />
+
+
 ---
 
 ## Overview
@@ -53,21 +56,22 @@ AlphaForge is built as a multi-agent system:
 ---
 
 ## Project Structure
-alphaforge/
-├── agents/ |
-├── tracker/ │
-├── analysis/ │
-  └── insight/ │
-├── services/ │
-├── blockchain/ │
-├── data-processing/ │
-└── alerts/ │
-├── api/ │
-  └── feed/ |
-├── config/ │
-├── scripts/ │
-├── README.md
 
+alphaforge/  
+  ├── agents/  
+  ├── tracker/   
+  ├── analysis/   
+  │   └── insight/   
+  ├── services/   
+  ├── blockchain/   
+  ├── data-processing/   
+  ├── alerts/   
+  ├── api/   
+  │   └── feed/   
+  ├── config/   
+  ├── scripts/   
+  └── README.md 
+  
 ---
 
 ## Roadmap
