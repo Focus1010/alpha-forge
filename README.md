@@ -53,7 +53,20 @@ AlphaForge is built as a multi-agent system:
 ---
 
 ## Project Structure
-alphaforge/ ├── agents/ │   ├── tracker/ │   ├── analysis/ │   └── insight/ │ ├── services/ │   ├── blockchain/ │   ├── data-processing/ │   └── alerts/ │ ├── api/ │   └── feed/ │ ├── config/ │ ├── scripts/ │ ├── README.md
+alphaforge/
+├── agents/ |
+├── tracker/ │
+├── analysis/ │
+  └── insight/ │
+├── services/ │
+├── blockchain/ │
+├── data-processing/ │
+└── alerts/ │
+├── api/ │
+  └── feed/ |
+├── config/ │
+├── scripts/ │
+├── README.md
 
 ---
 
